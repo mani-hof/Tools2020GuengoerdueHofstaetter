@@ -16,8 +16,10 @@ public class MainActivity extends AppCompatActivity {
 
 public void ThisIsANewMethod () {
 
-int[] list = {1, 2, 3, 4, 1, 2, 3};
+    int[] list = {1, 2, 3, 4, 1, 2, 3};
 
-System.out.println("This is a new function.");
+    String out = "Text to write";
+
+    System.out.println("This is a new function.");
 
 }
