@@ -19,5 +19,6 @@ public void ThisIsANewMethod () {
 int[] list = {1, 2, 3, 4, 1, 2, 3};
 
 System.out.println("This is a new function.");
+System.out.println("New Line.")
 
 }
