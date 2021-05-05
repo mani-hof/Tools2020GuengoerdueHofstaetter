@@ -14,4 +14,6 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-public void ThisIsANewMethod () {}
+public void ThisIsANewMethod () {
+	System.out.println("This is a new function.");
+}
