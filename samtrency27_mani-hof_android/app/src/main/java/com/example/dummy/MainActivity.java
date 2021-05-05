@@ -22,4 +22,6 @@ public void ThisIsANewMethod () {
 
     System.out.println("This is a new function.");
 
+    System.out.println(out);
+
 }
