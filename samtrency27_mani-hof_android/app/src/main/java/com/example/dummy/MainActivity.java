@@ -27,9 +27,11 @@ public void ThisIsANewMethod () {
 
     System.out.println(out);
 
-System.out.println("This is a new function.");
-System.out.println("New Line.");
-System.out.println("Second Line.");
-System.out.println("Third Line.");
+    System.out.println("This is a new function.");
+    System.out.println("New Line.");
+    System.out.println("Second Line.");
+    System.out.println("Third Line.");
+
+    System.out.println("Chris was here!");
 
 }
