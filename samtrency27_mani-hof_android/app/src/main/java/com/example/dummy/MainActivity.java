@@ -18,10 +18,16 @@ public void ThisIsANewMethod () {
 
     int[] list = {1, 2, 3, 4, 1, 2, 3};
 
+
     String out = "Text to write";
 
     System.out.println("This is a new function.");
 
     System.out.println(out);
+
+System.out.println("This is a new function.");
+System.out.println("New Line.");
+System.out.println("Second Line.");
+System.out.println("Third Line.");
 
 }
