@@ -6,6 +6,8 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
+#fuck this compiler ;) 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -16,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
 public void ThisIsANewMethod () {
 
-    int[] list = {1, 2, 3, 4, 1, 2, 3};
+    int[int i;] list = {1, 2, 3, 4, 1, 2, 3};
 
 
     String out = "Text to write";
